@@ -577,7 +577,6 @@ String paginaWeb() {
       }
       ptr += "</div>";
     }
-
   } 
   else if (modoOperacion == 2) { 
     // Modo Libre
